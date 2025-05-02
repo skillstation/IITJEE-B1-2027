@@ -1,13 +1,15 @@
 
-| **Date**      | **Day**    | **Maths (7:00–8:00 PM)** | **Physics (7:00–8:00 PM)** |
-|---------------|------------|---------------------------|-----------------------------|
-| May 2, 2025   | Friday     | –                         | ✔                           |
-| May 5, 2025   | Monday     | ✔                         | –                           |
-| May 9, 2025   | Friday     | –                         | ✔                           |
-| May 12, 2025  | Monday     | ✔                         | –                           |
-| May 16, 2025  | Friday     | –                         | ✔                           |
-| May 19, 2025  | Monday     | ✔                         | –                           |
-| May 26, 2025  | Monday     | ✔                         | –                           |
+| **Date**      | **Day**    | **Maths (7:00–8:00 PM)** | **Physics (7:00–8:00 PM)**   | **Notes**  |
+|---------------|------------|---------------------------|-----------------------------| ---------- |
+| May 2, 2025   | Friday     | Onboarding                | Onboarding                | Video • PR-Word • PR-Sheets |
+| May 5, 2025   | Monday(S1)    | -                         | ✔                           |
+| May 9, 2025   | Friday(S1)     | ✔                       | -                          |
+| May 12, 2025  | Monday(S2)     | -                        | ✔                          |
+| May 16, 2025  | Friday(S2)     | ✔                         | -                           |
+| May 19, 2025  | Monday(S3)     | -                         | ✔                            |
+| May 23, 2025  | Friday(S3)     | ✔                         | –                           |
+| May 26, 2025  | Monday(S4)    | -                        | ✔                            |
+| May 30, 2025  | Friday(S4)    | ✔                         | ✔                            |
 
 ---
 
