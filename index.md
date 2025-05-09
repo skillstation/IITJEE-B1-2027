@@ -20,3 +20,6 @@
 ## SESSION RECORDINGS
 
 [250502-ONBOARDING](https://us06web.zoom.us/rec/share/YICjC_DBa5ErjMitKzcu4pqR6EfWM4Xsuu3fyRiI1ldA6XT3FbF9CpnrLxqvRvQW.lgR1EW1peLqiQbxx)
+
+[250509-TRIGONOMETRY](https://us06web.zoom.us/rec/share/JthWpzOnfiusV1WgVmhipGLBap-FVwFFKipbw98FmPhR4OqSgz0AagELfFDPU3xF.mVp5JubwhfljFpHw 
+Passcode: =1Dgrh29)
