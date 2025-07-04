@@ -36,11 +36,17 @@
 
 ---
 
-### **Important Notes:**
-- **Doubt Clearing Session**: Available from **6:30 to 7:00 PM** before each class. **Optional** to attend.
-- **Problem Solving Session**: Held from **8:00 to 8:30 PM** after each class. **Mandatory** to attend.
+**JUNE SCHEDULE AND LECTURE LINKS WILL BE UDPATED;** 
 
-## SESSION RECORDINGS
+250630-PHY-M2-MATHEMATICAL-FOUNDATIONS-S01 • [Lecture](https://drive.google.com/file/d/1Y_7vXePtnAMORPRqkzu1G6HM2n9H6ft-/view?usp=drive_link) • [Class-Notes](https://drive.google.com/file/d/1i_6eanGzLe05LL_CaRKpDpr0devVaR1J/view?usp=drive_link) • [Worksheet-L0-01]()
+
+**JULY SCHEDULE OF CLASSES** 
+
+**Week-01**
+
+250702-MAT-M2-CALCULUS-S01 • [Lecture](https://drive.google.com/file/d/1kdSJvIdbT2NKfd8_0EpIiIlFspqcL8nl/view?usp=drive_link) • [Class-Notes](https://drive.google.com/file/d/1HuBYNKrZDW-t6qzVBMm_9Sy42FDwVllT/view?usp=drive_link) • [Worksheet-L0-01]
+
+--------------------------------
 
 [250502-ONBOARDING](https://us06web.zoom.us/rec/share/YICjC_DBa5ErjMitKzcu4pqR6EfWM4Xsuu3fyRiI1ldA6XT3FbF9CpnrLxqvRvQW.lgR1EW1peLqiQbxx)
 
