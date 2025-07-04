@@ -36,6 +36,22 @@
 
 ---
 
+**MOD-2 - PHYSICS**
+• Vectors & Scalars
+• Calculus Basics
+(NOTE: No specefic NCERT chapters will be covered - Refer HC Verna CH02)
+
+**MOD-2 - MATHEMATICS**
+• C11-CH02-RELATIONS-AND-FUNCTIONS
+• C12-CH01-RELATIONS-AND-FUNCTIONS
+• C11-CH12-LIMITS-AND-DERIVATIVES
+• C12-APPLICATIONS-OF-DERIVATIVES
+• C12-INTEGRAL-CALCULUS
+• C12-APPLICATIONS-OF-INTEGRAL-CALCULUS
+• C12-DIFFERENTIAL-EQUATIONS
+
+
+
 **JUNE SCHEDULE AND LECTURE LINKS WILL BE UDPATED;** 
 
 250630-PHY-M2-MATHEMATICAL-FOUNDATIONS-S01 • [Lecture](https://drive.google.com/file/d/1Y_7vXePtnAMORPRqkzu1G6HM2n9H6ft-/view?usp=drive_link) • [Class-Notes](https://drive.google.com/file/d/1i_6eanGzLe05LL_CaRKpDpr0devVaR1J/view?usp=drive_link) • [Worksheet-L0-01]()
